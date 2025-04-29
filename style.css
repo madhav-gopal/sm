@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat:wght@400;500;700;900&family=Oswald:wght@400;500;600;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'montserrat';
+    font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
 
@@ -34,6 +36,8 @@ body {
     position: relative;
     cursor: pointer;
     transition: all 0.3s ease;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
 }
 
 #nav h4::after {
@@ -121,6 +125,8 @@ body {
     font-size: 90px;
     font-weight: 900;
     position: relative;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
 }
 
 #page1 h1::before {
@@ -140,13 +146,16 @@ body {
     font-weight: 700;
     margin-top: 10px;
     margin-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
 }
 
 #page1 p {
     font-size: 15px;
     font-weight: 400;
     width: 40%;
-
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
 }
 
 #page2 {
@@ -189,11 +198,12 @@ body {
     display: inline-block;
     font-size: 100px;
     font-weight: 900;
-    font-family: gilroy;
+    font-family: 'Anton', sans-serif;
     margin-right: 25px;
     color: transparent;
     -webkit-text-stroke: 2px hsl(60, 74%, 46%);
     transition: all linear 0.5s;
+    letter-spacing: 2px;
 }
 
 @keyframes scroll {
@@ -250,11 +260,15 @@ body {
     font-size: 54px;
     font-weight: 800;
     margin-bottom: 20px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
 }
 
 #about-us-in p {
     font-size: 20px;
     line-height: 25px;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
 }
 
 #cards-container {
