@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 3. Open the project in your browser to see the highlights of Seedhe Maut.
 
 ## 📸 Screenshots
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](C:\Users\Lenovo\OneDrive\Desktop\projects\website\ss\Screenshot 2025-04-29 171600.png)
 ![Screenshot 2](path/to/screenshot2.png)
 
 ## 🌐 GitHub Repository
