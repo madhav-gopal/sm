@@ -25,9 +25,7 @@ To get started with the project, follow these steps:
 2. Edit the content as per your requirements.
 3. Open the project in your browser to see the highlights of Seedhe Maut.
 
-## 📸 Screenshots
-('https://github.com/madhav-gopal/sm/tree/main')
-![Screenshot 2](path/to/screenshot2.png)
+
 
 ## 🌐 GitHub Repository
 [SM GitHub Repo](https://github.com/madhav-gopal/sm.git)
